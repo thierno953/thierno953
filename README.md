@@ -22,7 +22,7 @@ laravel, vuejs, react, ...).
 ### Junior Front-end / Back-end
 
 🌍 Languages: French, English A1
-📫 Reach me directly on [LinkedIn](https://www.linkedin.com/in/thierno-mamadou-barry-0b8527203/)
+📫 ### Reach me directly on [LinkedIn](https://www.linkedin.com/in/thierno-mamadou-barry-0b8527203/)
 
 <!--
 **thierno953/thierno953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
