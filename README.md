@@ -18,8 +18,8 @@
 **projects**
 
 [![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
-[![MERN WEBSITE](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Mern-Website)
-[![React](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/React)
+[![MERN WEBSITE](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNWebsite-000000?style=flat)](https://github.com/shakilkhan12/Mern-Website)
+[![React](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Js&nbsp;000000?style=flat)](https://github.com/shakilkhan12/React)
 
 
 
