@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/thierno/shakilkhan12/blob/main/shakil%20khan.gif)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
+[![Header](https://github.com/shakilkhan12/shakilkhan12/blob/main/shakil%20khan.gif)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
 [![webtipstricks.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)](http://webtipstricks.com/)
 
 **Languages I have used**
@@ -13,13 +13,11 @@
 
 **Some of the technologies I have worked with**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=blue)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e84393)
 
-**Web/Full Stack projects**
+
+**projects**
 
 [![ReactEcommerce](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;ReactReduxeCommerce-000000?style=flat)](https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)
 [![Vue & Vuex Amazon Clone](https://img.shields.io/badge/🦠&nbsp;&nbsp;VueAmazon-000000?style=flat)](https://github.com/shakilkhan12/Youtube-vuejs-amazon-clone)
