@@ -18,7 +18,8 @@
 **projects**
 
 [![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
-[![React ColorPicker](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
+[![MERN WEBSITE](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
+[![React](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
 
 
 
