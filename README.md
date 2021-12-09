@@ -9,13 +9,11 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 
-**Some of the technologies I have worked with**
+**technologies with which I use**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-
-**projects**
 
 [![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
 [![MERN WEBSITE](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNWebsite-000000?style=flat)](https://github.com/shakilkhan12/Mern-Website)
