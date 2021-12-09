@@ -1,5 +1,5 @@
 
-## I am a web developer, after my intensive training and autonomy at becode and finished an internship at diversibe so I am looking for a new challenge as a web developer.
+## After my training at Becode and finished my internship I am looking for a new challenge in the world of work. I like to work in a team and come up with my ideas so I am open to any offer..
 
 **technologies with which I use**
 
