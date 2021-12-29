@@ -1,5 +1,5 @@
 
-## After my training at Becode and finished my internship I am looking for a new challenge in the world of work. I like to work in a team and come up with my ideas so I am open to any offer..
+## I have just finished my training and internship at Becode. I am now looking for new work challenges. I like to evolve as a team and come up with new ideas and solutions. I’m available immediately to start working. 
 
 **technologies with which I use**
 
