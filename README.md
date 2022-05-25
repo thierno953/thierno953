@@ -5,7 +5,7 @@
 Organized and dynamic, I also have a seriousness and rigor that have always helped me adapt with a lot of versatility.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-perso.netlify.app/](https://my-portfolio-perso.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliotmb.netlify.app/](https://portfoliotmb.netlify.app/)
 
 - 📫 How to reach me **thiernobarry554@gmail.com**
 
