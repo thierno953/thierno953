@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+Je+m'appelle+Thierno+Barry!;" />
 </h1>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 <h3 align="center">Un ingénieur DevOps passionné, qui recherche avec impatience de nouvelles choses à apprendre.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thierno953&label=Profile%20views&color=0e75b6&style=flat" alt="thierno953" /> </p>
