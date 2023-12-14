@@ -7,6 +7,7 @@
 
 - 🌱 J'apprends actuellement **DevSecOps**
 - 📝 J'écris régulièrement des articles sur **[Hashnode](https://thierno.hashnode.dev/)**
+- 👨‍💻 Tous mes projets sont disponibles sur https://github.com/thierno953
 - 📫 Comment me joindre **thiernobarry554@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
