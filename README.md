@@ -6,7 +6,7 @@
 apiVersion: vDevOps
 kind: Human
 metadata:
-  name: Thierno Barry
+  name: Thierno Barry  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'+m+Thierno+Barry!;" />
 spec:
   Profil: Passionate DevOps engineer
   locations:
