@@ -1,7 +1,29 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'+m+Thierno+Barry!;" />
 </h1>
-<h3 align="center">A passionate DevOps engineer</h3>
+```sh
+apiVersion: vDevOps
+kind: Human
+metadata:
+  name: Thierno Barry
+spec:
+  Profil: Passionate DevOps engineer
+  locations:
+    - 
+      type: Learning DevOps
+      where: Business Training
+    - 
+      type: About
+      where: thierno.hashnode.dev/about
+    -
+      type: Blog
+      where: thierno.hashnode.dev
+  favorites:
+    animal: 🐶
+    emoji: 🤦
+    food: 🥩
+    drink: ☕☕☕
+```
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thierno953&label=Profile%20views&color=0e75b6&style=flat" alt="thierno953" /> </p>
 
