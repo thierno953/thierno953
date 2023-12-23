@@ -8,10 +8,10 @@ kind: Human
 metadata:
   name: Thierno Barry
 spec:
-  Profil: Passionate DevOps engineer
-  locations:
+  profil: Passionate DevOps engineer
+  traning:
     - 
-      type: Learning DevOps
+      type: DevOps
       where: Business Training
     - 
       type: About
