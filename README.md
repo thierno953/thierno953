@@ -8,7 +8,7 @@ kind: Human
 metadata:
   name: Thierno Barry
 spec:
-  profil: Passionate DevOps engineer
+  profil: Passionate DevOps Engineer, creating and maintaining efficient and reliable systems that enable teams to deliver high-quality software products quickly and efficiently. In today's digital world, security is paramount, and understanding how to secure software is a skill of immense value.
   traning:
     - 
       type: DevOps
