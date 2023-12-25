@@ -13,12 +13,12 @@ spec:
     - 
       type: DevOps
       where: Business Training
-    - 
-      type: About
-      where: thierno.hashnode.dev/about
     -
       type: Blog
       where: thierno.hashnode.dev
+    - 
+      type: About
+      where: thierno.hashnode.dev/about
   favorites:
     animal: 🐶
     emoji: 🤦
