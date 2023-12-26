@@ -30,7 +30,7 @@ spec:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thierno953&label=Profile%20views&color=0e75b6&style=flat" alt="thierno953" /> </p>
 
 - 🌱 I'm currently learning **DevSecOps**
-- 📝 I regularly write articles on Hashnode **[Hashnode](https://thierno.hashnode.dev/)**
+- 📝 I regularly write articles on **[Hashnode](https://thierno.hashnode.dev/)**
 - 👨‍💻 All my projects are available on https://github.com/thierno953
 - 📫 How to contact me **thiernobarry554@gmail.com**
 
