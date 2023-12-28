@@ -13,7 +13,7 @@ spec:
     - 
       type: DevOps
       where: Business Training
-      skills: Linux - CI/CD - AWS - Docker - Kubernetes - Terraform - Ansible - Scripting - Jenkins - Grafana - Prometheus
+      skills: Linux - CI/CD - Scripting - AWS - Docker - Kubernetes - Terraform - Ansible - Jenkins - Prometheus - Grafana
     -
       type: Blog
       where: thierno.hashnode.dev
