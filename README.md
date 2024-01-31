@@ -15,7 +15,7 @@ spec:
       where: Business Training
     -
       type: DevSecOps
-      skills: Linux - CI/CD - Scripting - Docker - Kubernetes - Jenkins- AWS - Terraform - Ansible - Prometheus - Grafana
+      skills: Linux - CI/CD - Scripting - Docker - Kubernetes - Jenkins - AWS - Terraform - Ansible - Prometheus - Grafana
   favorites:
     animal: 🐶
     emoji: 🤦
