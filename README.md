@@ -13,13 +13,9 @@ spec:
     - 
       type: DevOps
       where: Business Training
-      skills: Linux - CI/CD - Scripting - AWS - Docker - Kubernetes - Terraform - Ansible - Jenkins - Prometheus - Grafana
     -
-      type: Blog
-      where: thierno.hashnode.dev
-    - 
-      type: About
-      where: thierno.hashnode.dev/about
+      type: DevSecOps
+      skills: Linux - CI/CD - Scripting - Docker - Kubernetes - Jenkins- AWS - Terraform - Ansible - Prometheus - Grafana
   favorites:
     animal: 🐶
     emoji: 🤦
