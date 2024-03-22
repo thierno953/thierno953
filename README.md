@@ -18,7 +18,7 @@ spec:
       skills: Linux - CI/CD - Scripting - Docker - Kubernetes - Jenkins - AWS - Azure - Terraform - Ansible - Prometheus - Grafana
     -
       type: Languages
-          : French, English(B2)
+      🤦 : French, English(B2)
       
   favorites:
     animal: 🐶
